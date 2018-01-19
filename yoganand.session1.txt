@@ -1,0 +1,7 @@
+i have learnt to creat a github account.
+i created a github account.
+learnt the basics of phython.
+wrote my first program to print my name.
+2nd program was addition of two variable
+3rd program was multipication,division,modulus  of two variables.
+learnt about the syntax errors.
