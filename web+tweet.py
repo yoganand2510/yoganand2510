@@ -19,7 +19,7 @@ while a<=1:
     os.system(cmd)
     print("pic has been taken")
     api.update_with_media(img, status= "Semma")
-    print("wait for 5 seconds for selfie")
+    print("wait 5 seconds for selfie")
     time.sleep(5)
     a+=1
     b+=1
